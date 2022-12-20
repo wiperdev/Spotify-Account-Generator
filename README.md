@@ -11,10 +11,10 @@ Spotify Account Generator created using Python.
 ## Screenshots
 
 - Creating
-<img src="https://user-images.githubusercontent.com/104322299/208729913-40068741-046d-49b9-a7f7-ad02256a341a.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/104322299/208729913-40068741-046d-49b9-a7f7-ad02256a341a.png" width=60% height=60%>
 
 - Console
-<img src="https://user-images.githubusercontent.com/104322299/208729916-0bf08dd8-994a-472f-8792-ac0914737a56.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/104322299/208729916-0bf08dd8-994a-472f-8792-ac0914737a56.png" width=60% height=60%>
 
 - Inside "accounts.txt" file
-<img src="https://user-images.githubusercontent.com/104322299/208729917-87c6ef2f-178c-4a63-8d2e-6b0e7e8213ac.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/104322299/208729917-87c6ef2f-178c-4a63-8d2e-6b0e7e8213ac.png" width=60% height=60%>
